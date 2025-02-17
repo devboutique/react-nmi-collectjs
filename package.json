@@ -1,5 +1,5 @@
 {
-  "name": "@lydiagoulding/react-nmi-collectjs",
+  "name": "@devboutique/react-nmi-collectjs",
   "version": "0.2.0",
   "description": "A React wrapper around NMI's Collect.js library for collecting payment data",
   "module": "lib/esm/index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lydiagoulding/react-nmi-collectjs.git"
+    "url": "https://github.com/devboutique/react-nmi-collectjs.git"
   },
   "author": {
     "name": "Lydia Goulding",
